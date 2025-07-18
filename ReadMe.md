@@ -6,10 +6,7 @@ This is a simple full-stack Flashcard application built using Vue.js for the fro
 - Flip flashcards to see the answer
 - Delete existing flashcards
 
-The frontend features a clean and animated interface, and the backend handles flashcard storage and retrieval via APIs.
----
-
-## 🔗 Demo
+## Demo
 
 Watch the working demo on YouTube:  
 **[Click here to watch the video](https://youtu.be/g7fgZ9vKAbU?si=7Qpuq4MLwdtpfdpB)**  
