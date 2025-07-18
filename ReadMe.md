@@ -12,7 +12,7 @@ The frontend features a clean and animated interface, and the backend handles fl
 ## 🔗 Demo
 
 Watch the working demo on YouTube:  
-**[Click here to watch the video](https://www.youtube.com/watch?v=your-demo-link)**  
+**[Click here to watch the video](https://youtu.be/g7fgZ9vKAbU?si=7Qpuq4MLwdtpfdpB)**  
 ---
 
 ## Features
